@@ -1,5 +1,5 @@
 {
-    "matrix": [
+    "vivid": [
         [
             "red_5_v",
             "red_10_v",
@@ -263,6 +263,56 @@
             "red-cool_70_v",
             "red-cool_80_v",
             "red-cool_90"
+        ]
+    ],
+    "grayscale": [
+        [
+            "gray_1",
+            "gray_2",
+            "gray_3",
+            "gray_4",
+            "gray_5",
+            "gray_10",
+            "gray_20",
+            "gray_30",
+            "gray_40",
+            "gray_50",
+            "gray_60",
+            "gray_70",
+            "gray_80",
+            "gray_90"
+        ],
+        [
+            "gray-warm_1",
+            "gray-warm_2",
+            "gray-warm_3",
+            "gray-warm_4",
+            "gray-warm_5",
+            "gray-warm_10",
+            "gray-warm_20",
+            "gray-warm_30",
+            "gray-warm_40",
+            "gray-warm_50",
+            "gray-warm_60",
+            "gray-warm_70",
+            "gray-warm_80",
+            "gray-warm_90"
+        ],
+        [
+            "gray-cool_1",
+            "gray-cool_2",
+            "gray-cool_3",
+            "gray-cool_4",
+            "gray-cool_5",
+            "gray-cool_10",
+            "gray-cool_20",
+            "gray-cool_30",
+            "gray-cool_40",
+            "gray-cool_50",
+            "gray-cool_60",
+            "gray-cool_70",
+            "gray-cool_80",
+            "gray-cool_90"
         ]
     ]
 }
